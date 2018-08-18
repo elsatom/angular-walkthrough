@@ -1,2 +1,2 @@
-# typescript-basics
-Typescript functionalities from basics
+# angular-walkthrough
+Expert in angular from basics
